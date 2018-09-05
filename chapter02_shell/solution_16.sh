@@ -1,0 +1,1 @@
+split -n l/3 hightemp.txt

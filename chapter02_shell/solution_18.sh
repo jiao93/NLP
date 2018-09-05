@@ -1,0 +1,1 @@
+sort -nrk 3 hightemp.txt
